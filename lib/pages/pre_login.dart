@@ -25,7 +25,7 @@ class _PreLoginState extends State<PreLogin> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Image.asset(
-                '', // Replace 'your_image.png' with your image asset path
+                'logo3.png', // Replace 'your_image.png' with your image asset path
                 width: 200,
                 height: 200,
               ),
